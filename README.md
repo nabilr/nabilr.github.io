@@ -1,3 +1,7 @@
+---
+title: This is my title
+layout: default
+---
 ## Nabil Rahiman
 
 More than 12+ years experience on various domains that varies from as software developer to Instructor for the computer Science. I am having very strong system programming experience. I am currenlty working as Computer Science Intructor at [NYU Abu Dhabi](https://nyuad.nyu.edu). 
