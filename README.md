@@ -1,39 +1,13 @@
-## Welcome to GitHub Pages
+## Nabil Rahiman
 
-$$a^2 + b^2 = c^2$$
+More than 12+ years experience on various domains that varies from as software developer to Instructor for the computer Science. I am having very strong system programming experience. I am currenlty working as Computer Science Intructor at [NYU Abu Dhabi](https://nyuad.nyu.edu). 
 
-You can use the [editor on GitHub](https://github.com/nabilr/nabilr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Previous companies I worked
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
+1. [Qatar univeristy](www.qu.edu.qa) - Reaserach Assistant
+2. [Juniper](https://www.juniper.net) - Junos Kernel Developer
+3. [Netapp](https://www.netapp.com) - Raid developer
+4. [IBM ISL](https://www.ibm.com)- Aix OS devloper
+5. `iCalibrator` - Cooperate traininer
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nabilr/nabilr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
