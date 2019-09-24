@@ -16,5 +16,4 @@ More than 12+ years experience on various domains that varies from as software d
 
 [Building a Real Operating system:](https://www.cs.princeton.edu/courses/archive/fall18/cos318/projects.html) We use code base from Princeton university
 
-[Exploring the ]
 
